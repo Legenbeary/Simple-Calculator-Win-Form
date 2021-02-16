@@ -1,0 +1,9 @@
+C:\Users\jachop7328\Desktop\CIS317\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\jachop7328\Desktop\CIS317\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\jachop7328\Desktop\CIS317\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\jachop7328\Desktop\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csprojResolveAssemblyReference.cache
+C:\Users\jachop7328\Desktop\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.CalcForm.resources
+C:\Users\jachop7328\Desktop\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+C:\Users\jachop7328\Desktop\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.Cache
+C:\Users\jachop7328\Desktop\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\jachop7328\Desktop\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
